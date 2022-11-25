@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    padding: 1rem;
+    background: #ccc;
+  }
+ 
+  textarea {
+    width: 90%;
+    height: 300px;
+  }
